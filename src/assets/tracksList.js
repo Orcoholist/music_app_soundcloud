@@ -7,7 +7,7 @@ export default [
         "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/113/1000x0/falling-1649412036-lkoB5hiJq8.jpg",
       duration: 159,
       title: "Falling",
-      artists: "Rival, CRVN",
+      artists: "Rival, CRVN", 
     },
     {
       id: 2,
